@@ -3,14 +3,14 @@ metatype: json
 ---
 
 {
-  "identifier": "io.github.christianhans.sn-pure-black-theme",
-  "name": "Pure Black",
+  "identifier": "Custom-PB",
+  "name": "Pure Black Custom",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.9",
-  "description": "Pure black theme for Standard Notes.",
-  "url": "https://cdn.jsdelivr.net/gh/christianhans/sn-pure-black-theme@1.0.9/dist/dist.css",
-  "download_url": "https://github.com/christianhans/sn-pure-black-theme/archive/1.0.9.zip",
-  "latest_url": "https://listed.to/G4qnpftLNJ",
-  "marketing_url": "https://github.com/christianhans/sn-pure-black-theme"
+  "version": "1",
+  "description": "VinnieBwoy Custom Pure black theme for Standard Notes.",
+  "url": "https://cdn.jsdelivr.net/gh/VinnieBwoy/sn-pureblack/dist/dist.css",
+  "download_url": "https://github.com/VinnieBwoy/sn-pureblack/archive/main.zip",
+  "latest_url": "https://cdn.jsdelivr.net/gh/vinniebwoy/sn-pureblack/raw.txt",
+  "marketing_url": "https://github.com/VinnieBwoy/sn-pureblack"
 }
