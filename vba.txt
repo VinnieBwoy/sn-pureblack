@@ -7,6 +7,6 @@
   "description": "VinnieBwoy Custom Pure black theme for Standard Notes.",
   "url": "https://cdn.jsdelivr.net/gh/VinnieBwoy/sn-pureblack/dist/dist.css",
   "download_url": "https://github.com/VinnieBwoy/sn-pureblack/archive/main.zip",
-  "latest_url": "https://github.com/VinnieBwoy/sn-pureblack/vbl.txt",
+  "latest_url": "https://github.com/VinnieBwoy/sn-pureblack/vba.txt",
   "marketing_url": "https://github.com/VinnieBwoy/sn-pureblack"
 }
